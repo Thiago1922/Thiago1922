@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 My name is Thiago and ...:
 
- - 😄 Sou estudante dedicado
+ - 😄 Sou estudante muito dedicado
  - 📊 Técnico em Informática
- - 📚 Quero seguir na área de Desenvolvimento de web
- - 🌍 Ciência da computação
+ - 📚 Quero seguir na área de TI
+ - 🌍 Design
 
 
 <h3 align="left">Connect with me:</h3>
