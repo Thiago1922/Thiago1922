@@ -32,7 +32,7 @@ My name is Thiago and ...:
  - 😄 Sou estudante muito dedicado
  - 📊 Técnico em Informática
  - 📚 Quero seguir na área de TI
- - 🌍 Design
+ - 🌍 Design UX
 
 
 <h3 align="left">Connect with me:</h3>
