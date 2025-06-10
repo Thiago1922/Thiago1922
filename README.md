@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Thiago Coelho :man_technologist:
+# Thiago Santos:man_technologist:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
